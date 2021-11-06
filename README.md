@@ -9,7 +9,7 @@ Author: AdamWHY2K
 
 ## Description
 * A simple python script to keep track of your crypto.
-* Supports any crypto that coingecko's api supports (which is a lot) -- https://api.coingecko.com/api/v3/coins/list
+* Supports any crypto that coingecko's api supports [which is a lot!](https://api.coingecko.com/api/v3/coins/list)
 * Shows losses/gains, 24 hour graph and percentage change.
 
 Please note that I haven't tested this on any device other than my own. If you have issues feel free to open an [issue](https://github.com/AdamWHY2K/termux-crypto-tracker/issues/new) and I'll see what I can do.
