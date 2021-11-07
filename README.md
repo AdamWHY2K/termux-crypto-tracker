@@ -20,6 +20,7 @@ https://user-images.githubusercontent.com/68286215/140621241-20d5ca13-e7e0-4f31-
 * [Termux](https://github.com/termux/termux-app)
 * [Termux-Widget](https://github.com/termux/termux-widget)
 * [plotext v2.3.1](https://pypi.org/project/plotext/)
+* [requests v2.26.0](https://pypi.org/project/requests/)
 
 # Instructions
 * Open termux and clone this repository using `git clone https://github.com/AdamWHY2K/termux-crypto-tracker`
